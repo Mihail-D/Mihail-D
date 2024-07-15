@@ -34,7 +34,4 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E.svg?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/)
 [![codewars](https://www.codewars.com/users/M.Doroshenko/badges/large)](https://www.codewars.com/users/M.Doroshenko)   
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Mihail-D)](https://github.com/KnlnKS/leetcode-stats)
-
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Mihail-D&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
