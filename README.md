@@ -1,7 +1,6 @@
 ![Banner](https://thumbsnap.com/i/fczkLm57.jpg)
 
 <h1 align="center">Здравствуйте, меня зовут Михаил</h1> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">я Java разработчик</h3>
 
 <p align="center">
